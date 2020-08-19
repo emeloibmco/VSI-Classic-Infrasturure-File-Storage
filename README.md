@@ -1,1 +1,1 @@
-# VSI-Classic-Infrasturure-File-Storage
+# VSI-Classic-Infrastructure-File-Storage
